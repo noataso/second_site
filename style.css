@@ -1,0 +1,28 @@
+.question-top{
+    width:500px;
+    margin:0 auto 0;
+}
+
+.question-section{
+    font-size: 22px;
+    background: pink;
+    color:skyblue;
+    padding:5px 15px 5px;
+    border-radius:5px;
+    font-weight: bold;
+}
+
+.button-section{
+    text-align:center;
+    margin-top:15px;
+}
+
+.button{
+    background: skyblue;
+    color:pink;
+    border:lightgreen;
+    padding:5px 15px 5px;
+    font-size: 22px;
+    border-radius:5px;
+    font-weight: bold;
+}
